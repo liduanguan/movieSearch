@@ -3,7 +3,7 @@
 This app use React to create a real time movie seach web app.
 
 movie_Search_ClassComponent use class component.
-movie_Search_FunctionComponet use function component.
+movie_Search_FunctionComponet use function component and hooks.
 
 To run the app, change the name of either movie_Search_ClassComponent or movie_Search_FunctionComponet to src.
 
